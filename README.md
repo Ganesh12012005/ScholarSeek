@@ -13,7 +13,7 @@ Discover the right scholarships tailored to your goals—fast, simple, and perso
 ## Run Locally
 ### First clone the repo
 ```bash
-git clone https://github.com/SanthoshBhargav/ScholarSeek.git
+git clone https://github.com/Ganesh12012005/ScholarSeek.git
 cd ScholarSeek
 ```
 
